@@ -1,0 +1,19 @@
+body{
+    min-height: 100vh;
+    justify-content: space-between;
+    display: flex;
+    flex-direction: column;
+    background-color: rgb(101, 78, 60);
+}
+.content{
+    margin: 0 0 0 0;
+    font_size: 
+}
+.list-1{
+}
+.text{
+    font-size: 2rem;
+    color: white;
+    font-family: 'Courier New';
+}
+
